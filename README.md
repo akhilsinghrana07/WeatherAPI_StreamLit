@@ -5,7 +5,7 @@ This is a simple web application that displays the current weather and forecast 
 Allows users to enter the location they want to check the weather for.
 Displays the current weather conditions for the specified location, including temperature, humidity, wind speed, and weather description.
 Shows a five-day forecast for the location, including minimum and maximum temperatures and weather descriptions.
-Automatically detects the user's location and displays the weather information for their location.
+User can enter location and displays the weather information for that location.
 
 # Technologies
 Python
